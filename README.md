@@ -1,9 +1,4 @@
 ### Hi there 👋
-I am a postdoctoral researcher in the division of Cancer Epidemiology at the German Cancer Research Centre(DKFZ) in Heidelberg. 
-My current research is on a large systematic review project which aims to synthesize the evidence on key mechanistic pathways for the causal link between adiposity and gynecological cancers. 
-
-My research interest is broad but generally in epidemiological and digital health research methods applied to diabetes, cancer, and other chronic diseases. 
-Methodologically, I am interested in observational methods, systematic reviews and meta-analysis, and contemporary approaches such as machine learning applications in disease risk and health care prognosis prediction.
 
 <!--
 **Mihiretukebede/mihiretukebede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
