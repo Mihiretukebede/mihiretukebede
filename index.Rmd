@@ -1,0 +1,23 @@
+---
+title: "Mihiretu Kebede"
+image: "profilepic.jpg"
+links:
+  - label: ORCID
+    url: https://orcid.org/0000-0002-5599-2823
+  - label: Google Scholar
+    url: https://scholar.google.de/citations?user=O93Icv4AAAAJ&hl=en
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/mihiretu-m-kebede-18831b70/"
+  - label: Twitter
+    url: "https://twitter.com/MihiretuKebede1"
+  - label: GitHub
+    url: "https://github.com/Mihiretukebede/mkebede"
+  - label: Email
+    url: "mihiretaabush@mail.com"
+output:
+  postcards::jolla
+---
+
+I am a postdoctoral researcher in the division of Cancer Epidemiology at the German Cancer Research Centre (DKFZ) in Heidelberg.
+
+My research interest is broad but generally in epidemiological and digital health research methods applied to diabetes, cancer, and other chronic diseases. Methodologically, I am interested in observational methods, systematic reviews and meta-analysis, and contemporary approaches such as machine learning applications in disease risk and health care prognosis prediction.
